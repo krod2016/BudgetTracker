@@ -6,7 +6,7 @@
 An easy way to track your finances while travelling. This app can be used with and without internet. 
 
 # Links
-* GitHub:
+* GitHub: https://github.com/krod2016/BudgetTracker
 * Deployed Link: 
 
 # Description
@@ -17,7 +17,6 @@ Here is a snapshot of the app in action.
 * CSS
 * Heroku
 * HTML
-* JawsDB
 * JavaScript
 * Json
 * MongoDB
