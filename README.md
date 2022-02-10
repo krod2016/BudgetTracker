@@ -1,7 +1,3 @@
-* You should add your idb.js file to the public/js/ directory of your application.
-* You should add your service worker to the root of the public/ directory of your application.
-* Deploy to Heroku when done
-
 # Budget Tracker
 An easy way to track your finances while travelling. This app can be used with and without internet. 
 
